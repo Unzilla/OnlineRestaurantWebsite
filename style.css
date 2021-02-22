@@ -1,0 +1,55 @@
+#carouselExampleCaptions {
+    height: auto;
+}
+
+.carousel img {
+    height: 470px;
+}
+
+
+/* .card {
+                            border: none !important;
+                        } */
+
+.loc {
+    height: 350px !important;
+}
+
+.menu,
+.inquiry,
+.story {
+    background-color: #F9B234;
+}
+
+.menupage img {
+    margin-top: -42px;
+}
+
+.menucard {
+    height: 500px;
+    border-radius: 4px;
+    text-align: center;
+    border: 0 solid rgba(0, 0, 0, .125);
+}
+
+.navbar li {
+    font-size: larger;
+}
+
+.space {
+    height: 300px !important;
+}
+
+.about img {
+    height: 500px;
+}
+
+.story {
+    margin-bottom: -280px;
+    width: 600px !important;
+    text-align: center;
+}
+
+.footer {
+    margin-top: -250px !important;
+}
